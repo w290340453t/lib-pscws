@@ -9,7 +9,7 @@ use \Be\Lib\Pscws\Factory;
 
 // ...
 
-$libPscws = Factory::getInstance();
+$libPscws = Factory::singleton();
 
 
 // 从一段内容中提取前10个关键词

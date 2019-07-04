@@ -10,7 +10,7 @@ namespace Be\Lib\Pscws;
 class Factory
 {
     private static $instance = null;
-    public static function getInstance() {
+    public static function singleton() {
         if (self::$instance === null) {
             self::$instance = new Pscws();
         }
