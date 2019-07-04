@@ -5,7 +5,7 @@
 <?php
 require_once './vendor/autoload.php';
 
-use \Phpbe\Lib\Pscws\Factory;
+use \Be\Lib\Pscws\Factory;
 
 // ...
 

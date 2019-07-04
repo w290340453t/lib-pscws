@@ -1,5 +1,5 @@
 {
-    "name": "phpbe/lib-pscws",
+    "name": "be/lib-pscws",
     "description": "PSCWS 中文分词库",
     "keywords": ["PSCWS", "中文分词库"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Phpbe\\Lib\\Pscws\\": "src/"
+            "Be\\Lib\\Pscws\\": "src/"
         }
     }
 }

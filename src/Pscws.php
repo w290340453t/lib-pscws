@@ -1,10 +1,10 @@
 <?php
-namespace Phpbe\Lib\Pscws;
+namespace Be\Lib\Pscws;
 
 /**
  *  PSCWS 中文分词库
  *
- * @package Phpbe\Lib\Pscws
+ * @package Be\Lib\Pscws
  * @author liu12 <i@liu12.com>
  */
 class Pscws
